@@ -1,0 +1,27 @@
+{
+    "name": "yagmikita/std-signatures",
+    "type": "library",
+    "keywords": [
+        "library",
+        "utils",
+        "utilities",
+        "lib",
+        "interfaces",
+        "signatures"
+    ],
+    "authors": [
+        {
+            "name": "Gopkalo Nikita",
+            "email": "yagmikita@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-0": {
+            "Signatures": "src"
+        }
+    }
+}
