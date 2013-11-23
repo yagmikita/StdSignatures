@@ -1,6 +1,7 @@
 {
     "name": "yagmikita/std-signatures",
     "type": "library",
+    "license": "MIT",
     "keywords": [
         "library",
         "utils",
